@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.KiemTra_LapTrinhUngDungDiDong_2374802010211" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.KiemTra_LapTrinhUngDungDiDong_2374802010211" parent="Base.Theme.KiemTra_LapTrinhUngDungDiDong_2374802010211" />
+</resources>
